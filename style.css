@@ -63,7 +63,3 @@ body {
     gap: .5rem;
     text-align: start;
 }
-
-.row .humadity-info i, .row .wind-info i {
-    font-size: 1.4rem;
-}
